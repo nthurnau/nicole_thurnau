@@ -9,6 +9,12 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
+.enter-link {
+  margin-top: 70px;
+  color: cornsilk;
+  font-size: 40px;
+  font-family: WG Dunste;
+}
 .profile-pic {
   height: 400px;
   width: 420px;
